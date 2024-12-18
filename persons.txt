@@ -1,0 +1,3 @@
+Name: Abbi, Age: 20, Address: Bogo, Student ID: 001, Major: CS
+Name: Ram, Age: 20, Address: Hatton, Student ID: 003, Major: CS
+Name: Kamal, Age: 32, Address: Hatton, Employee ID: E01, Subject: Web Programming
